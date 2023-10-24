@@ -1,0 +1,12 @@
+Sweden 50 20
+Denmark 33 56
+Norway 10 29
+Finland 46 35
+Poland 44 56
+Romania 18 20
+France 55 60
+Swiitzerland 5 50
+Italy 25 29
+Spain 40 45
+Greece 40 25
+Austria 25 40
